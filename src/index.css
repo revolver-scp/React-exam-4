@@ -1,0 +1,9 @@
+@import "tailwindcss";
+.carts{
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+} .cart{
+    width: 350px;
+    height: 300px;
+}
